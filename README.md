@@ -1,6 +1,6 @@
 # Deep learning for element identification using Raman spectrum
 
-This repository proposes an attention-based residual networks for element identification of minerals using Raman spectrum. Deep learning (DL) for Raman spectrum has been adopted for mineral classification (Liu et al., 2017; Zhang et al., 2020). On this basis, this repository aims to identify specific elements in minerals or other inorganic materials by DL-based Raman spectroscopy. 
+This repository proposes attention-based residual networks for element identification of minerals using Raman spectrum. Deep learning (DL) for Raman spectrum has been adopted for mineral classification (Liu et al., 2017; Zhang et al., 2020). On this basis, this repository aims to identify specific elements in minerals or other inorganic materials by DL-based Raman spectroscopy. 
 
 ## Requirements
 
