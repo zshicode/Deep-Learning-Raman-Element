@@ -23,7 +23,7 @@ Users can define the elements to be identified by modifying list `elem`.
 
 ## Datasets
 
-Following previous research (Zhang et al., 2020) for mineral classification, this repo validates the models on the excellent oriented Raman spectra data of RRUFF dataset. To fix the dimension of different spectra, each spectrum is interpolated in 100-1400cm-1 with 1024 points. The spectra data of the minerals with only one sample per mineral class are removed.
+Following previous research (Zhang et al., 2020) for mineral classification, this repo validates the models on the excellent unoriented Raman spectra data of RRUFF dataset. To fix the dimension of different spectra, each spectrum is interpolated in 100-1400cm-1 with 1024 points. The spectra data of the minerals with only one sample per mineral class are removed.
 
 The data can be downloaded via this [link](https://rruff.info/zipped_data_files/raman/excellent_unoriented.zip). The Raman spectra data are acquired by spectrometers with different excitation wavelength (532nm, 780nm, ...). Besides, The dataset includes the raw data and the data processed by baseline removal and cosmicray removal. This repo provides options for users to adopt processed data or raw data with different excitation wavelength.
 
